@@ -1,0 +1,2 @@
+1035,medicines,7,8976,bad,category.compareTo("good") == 0 failed
+1058,clothes,7,1314,bad,category.compareTo("good") == 0 failed

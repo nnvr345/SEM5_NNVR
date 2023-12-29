@@ -1,0 +1,7 @@
+"student,dept,sem,marks,sec = nnvr,ict,5,95,a";"student,dept,sem,marks,sec = abhi,ict,5,96,b";"student,dept,sem,marks,sec = jatin,eee,4,88,c";"student,dept,sem,marks,sec = madhu,dse,6,64,a";"student,dept,sem,marks,sec = mohan,ece,7,,b";"student,dept,sem,marks,sec = jagan,cse,6,100,c"
+"true";"false";"false";"false";"false";"false"
+"false";"true";"false";"false";"false";"false"
+"false";"false";"true";"false";"false";"false"
+"false";"false";"false";"true";"false";"false"
+"false";"false";"false";"false";"true";"false"
+"false";"false";"false";"false";"false";"true"

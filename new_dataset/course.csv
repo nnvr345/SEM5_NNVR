@@ -1,0 +1,21 @@
+﻿Course_ID,Cname,dept
+101,Introduction to Programming,ICT
+102,Data Structures,ICT
+103,Compilers,ICT
+104,Database Management,Engineering
+105,Electromagnetism,Physics
+106,Algorithms,ICT
+107,Linear Algebra,Mathematics
+108,Network Security,ICT
+109,Web Development,ICT
+110,Artificial Intelligence,ComputerScience
+111,Operating Systems,ICT
+112,Software Engineering,ComputerScience
+113,Calculus,Mathematics
+114,Computer Networks,ICT
+115,Robotics,Engineering
+116,Quantum Mechanics,Physics
+117,Game Development,ComputerScience
+118,Information Theory,ICT
+119,Control Systems,Engineering
+120,Data Analysis,ICT

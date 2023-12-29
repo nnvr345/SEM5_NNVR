@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_-LkUoFANEe6M7dOxHu4Y4Q" name="hospital_nnvr" dataPackage="_-LkUoVANEe6M7dOxHu4Y4Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/ADMIN/Desktop/dmpa_nnv/hospital (1) (2).csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_-LkUoVANEe6M7dOxHu4Y4Q" name="default" dataManager="_-LkUoFANEe6M7dOxHu4Y4Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_-LkUolANEe6M7dOxHu4Y4Q" id="_0z724FANEe6M7dOxHu4Y4Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUo1ANEe6M7dOxHu4Y4Q" label="providernumber" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUpFANEe6M7dOxHu4Y4Q" label="hospitalname" length="27" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUpVANEe6M7dOxHu4Y4Q" label="address1" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUplANEe6M7dOxHu4Y4Q" label="address2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUp1ANEe6M7dOxHu4Y4Q" label="address3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUqFANEe6M7dOxHu4Y4Q" label="city" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUqVANEe6M7dOxHu4Y4Q" label="state" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUqlANEe6M7dOxHu4Y4Q" label="zip" length="8" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUq1ANEe6M7dOxHu4Y4Q" label="country" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUrFANEe6M7dOxHu4Y4Q" label="phone" length="10" talendType="id_Long" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUrVANEe6M7dOxHu4Y4Q" label="hospitaltype" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUrlANEe6M7dOxHu4Y4Q" label="hospitalowner" length="43" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUr1ANEe6M7dOxHu4Y4Q" label="emergencyservice" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUsFANEe6M7dOxHu4Y4Q" label="condition" length="29" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUsVANEe6M7dOxHu4Y4Q" label="measurecode" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUslANEe6M7dOxHu4Y4Q" label="measurename" length="184" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUs1ANEe6M7dOxHu4Y4Q" label="score" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUtFANEe6M7dOxHu4Y4Q" label="sample" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LkUtVANEe6M7dOxHu4Y4Q" label="stateavg" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
